@@ -1,7 +1,7 @@
 # GIMP-3-Themes
 Themes for The GNU Image Manipulation Program 3.0
 
-How to install:
+How to install:  
 Launch GIMP and go to Edit > Preferences > Folders > Themes and see where it looks for the themes, put the custom theme in that folder.  
 Alternatively, click the button "Add a new folder" and give it a new path to search for the custom theme(s).  
 
