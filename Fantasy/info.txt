@@ -1,0 +1,8 @@
+Fantasy theme for GIMP 2.99/3 made by Uzugijin (I don't really consider it finished, and light variant is janky, but feel free to modify, re-iterate, share and all that stuff)
+goes to \GIMP 2.99\share\gimp\2.99\themes\
+
+gimp.css = light theme colors, image references
+gimp-dark.css = dark theme colors, image references
+shared-settings.css = general gtk settings
+
+"ui" folder contains all the images in use which can be overwritten, but filenames must remain the same, (or update any change in the "gimp~.css" files)

@@ -1,0 +1,1 @@
+extra textures that aren't in use by the theme, feel free to delete this folder

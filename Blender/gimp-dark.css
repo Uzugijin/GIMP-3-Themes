@@ -1,0 +1,61 @@
+/* Dark variant for the Blender theme for GIMP 3.0 */
+
+/* Hint for debugging themes:
+ * first enable the GTK inspector with
+   gsettings set org.gtk.Settings.Debug enable-inspector-keybinding true
+ * then (after restarting GIMP) call it up with ctrl+shift+i
+ * or from GIMP's UI: File > Debug > Start GtkInspector
+ */
+
+/* Basic foreground, background and border colors. */
+@define-color fg-color               rgb(229,229,229);
+@define-color bg-color               rgb(61,61,61);
+@define-color border-color           rgb(29,29,29);
+
+/********* Variants for foreground colors *********/
+
+/* In places where we want not as strongly contrasted text. */
+@define-color dimmed-fg-color        rgb(155,155,155);
+/* Disabled items, such as disabled actions in menus. */
+@define-color disabled-fg-color      rgb(145,145,145);
+/* Disabled buttons are dimmed even more (text needs to still be
+ * readable, but buttons design are usually enough. */
+@define-color disabled-button-color  rgba(50,50,50,05);
+
+/********* Variants for background colors *********/
+
+/* Background color for hovered items to "stick out". */
+@define-color hover-color            rgba(5,5,5,0.2);
+/* Background color when we want widgets-in-widgets to differenciate. It
+ * will usually be "less extreme", i.e. darker on a light theme, or
+ * lighter on a dark theme.
+ */
+@define-color widget-bg-color        rgb(35,35,35);
+/* Color for selected items, in particular when their usual background
+ * color is @widget-bg-color or @bg-color. It will usually be ligher on
+ * a light theme, or darker on a dark theme.
+ */
+@define-color selected-color         rgba(71,114,179,0.4);
+
+/* Background color more extreme in the theme tendency, i.e. darker on a
+ * dark theme, ligther on a light theme. */
+@define-color extreme-bg-color       rgb(40,40,40);
+/* Color for a selected item to "stick out" when @extreme-bg-color is
+ * used. It will usually be darker than @bg-color on a light theme,
+ * ligher on a dark theme.
+ */
+@define-color extreme-selected-color rgba(71,114,179,0.4);
+
+/********* Variants for border colors *********/
+
+@define-color strong-border-color    rgba(255,50,50,0);
+@define-color stronger-border-color  rgb(40,40,40);
+
+/********* Colors for special cases *********/
+
+@define-color scrollbar-slider-color rgb(84,84,84);
+@define-color scrollbar-trough-color rgba(38,38,38,1);
+
+@define-color ruler-color            rgba(22,22,22,0.3);
+
+@import url("common.css");
