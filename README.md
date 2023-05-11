@@ -3,7 +3,7 @@ Themes for The GNU Image Manipulation Program 3.0
 
 Blender
 ![blender_theme2 99](https://github.com/Uzugijin/GIMP-3-Themes/assets/116717813/2f33f1b2-9b7d-45ca-a261-09d03d310061)
-Download through DownGit: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Uzugijin/GIMP-3-Themes/tree/main/Blender
+Download through download-directory.github.io: https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2FUzugijin%2FGIMP-3-Themes%2Ftree%2Fmain%2FBlender
 
 DarkMetallic
 ![DarkMetallic2 99](https://github.com/Uzugijin/GIMP-3-Themes/assets/116717813/ba324ec3-055c-457d-a40d-b4c1331e8bfc)
