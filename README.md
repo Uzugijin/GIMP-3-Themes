@@ -7,7 +7,9 @@ Blender
 DarkMetallic
 ![DarkMetallic2 99](https://github.com/Uzugijin/GIMP-3-Themes/assets/116717813/ba324ec3-055c-457d-a40d-b4c1331e8bfc)
 
-Fantasy
+Fantasy (with swap-out textures and secret light theme variant)
+![unknown](https://github.com/Uzugijin/GIMP-3-Themes/assets/116717813/8bc00b90-92d3-45f7-ab2e-bd180aebd176)
+
 
 Graycast
 ![graycast_screenshot](https://github.com/Uzugijin/GIMP-3-Themes/assets/116717813/d5779c1c-abde-4c1f-a1d0-f028e7e81d71)
