@@ -7,13 +7,13 @@ Download through download-directory.github.io: https://download-directory.github
 
 DarkMetallic
 ![DarkMetallic2 99](https://github.com/Uzugijin/GIMP-3-Themes/assets/116717813/ba324ec3-055c-457d-a40d-b4c1331e8bfc)
-Download through DownGit: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Uzugijin/GIMP-3-Themes/tree/main/DarkMetallic
+Download through download-directory.github.io: https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2FUzugijin%2FGIMP-3-Themes%2Ftree%2Fmain%2FDarkMetallic
 
 Fantasy (with swap-out textures and secret light theme variant)
 ![unknown](https://github.com/Uzugijin/GIMP-3-Themes/assets/116717813/8bc00b90-92d3-45f7-ab2e-bd180aebd176)
-Download through DownGit: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Uzugijin/GIMP-3-Themes/tree/main/Fantasy
+Download through download-directory.github.io: https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2FUzugijin%2FGIMP-3-Themes%2Ftree%2Fmain%2FFantasy
 
 Graycast
 ![graycast_screenshot](https://github.com/Uzugijin/GIMP-3-Themes/assets/116717813/d5779c1c-abde-4c1f-a1d0-f028e7e81d71)
-Download through DownGit: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Uzugijin/GIMP-3-Themes/tree/main/Graycast
+Download through download-directory.github.io: https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2FUzugijin%2FGIMP-3-Themes%2Ftree%2Fmain%2FGraycast
 
