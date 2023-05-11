@@ -3,7 +3,7 @@ Themes for The GNU Image Manipulation Program 3.0
 
 How to install:  
 Launch GIMP and go to Edit > Preferences > Folders > Themes and see where it looks for the themes, put the custom theme in that folder.  
-Alternatively, click the button "Add a new folder" and give it a new path to search for the custom theme(s). (needs restarting GIMP) 
+Alternatively, click the button "Add a new folder" and give it a new path to search for the custom theme(s). (needs restart) 
 
 **Blender**  
 ![blender_theme2 99](https://github.com/Uzugijin/GIMP-3-Themes/assets/116717813/2f33f1b2-9b7d-45ca-a261-09d03d310061)
