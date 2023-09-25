@@ -1,0 +1,1 @@
+overwrite folders located at "\GIMP 2.99\share\gimp\2.99\themes\"
