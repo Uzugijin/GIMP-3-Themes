@@ -7,7 +7,7 @@ Alternatively, click the button "Add a new folder" and give it a new path to sea
 
 **DarkMetallic**  
 ![DarkMetallic2 99](https://github.com/Uzugijin/GIMP-3-Themes/assets/116717813/ba324ec3-055c-457d-a40d-b4c1331e8bfc)
-Download through download-directory.github.io: [here](https://github.com/Uzugijin/GIMP-3-Themes/releases/download/1.1/DarkMetallic.zip)
+Download: [here](https://github.com/Uzugijin/GIMP-3-Themes/releases/download/1.1/DarkMetallic.zip)
 
 **Blender**  
 ![blender_theme2 99](https://github.com/Uzugijin/GIMP-3-Themes/assets/116717813/2f33f1b2-9b7d-45ca-a261-09d03d310061)
