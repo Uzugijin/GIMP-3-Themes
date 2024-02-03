@@ -1,4 +1,10 @@
 /* Dark theme for GIMP 3.0 */
+/* debug search words:
+separator 
+
+
+
+*/
 
 /* Hint for debugging themes:
  * first enable the GTK inspector with
@@ -222,11 +228,17 @@ entry selection {
   background: @tint-light;
 }
 
+/*separator*/
 paned separator {
    background-image: none;
    /*background: linear-gradient(45deg,#444444,black,#444444);*/
    background: linear-gradient(45deg,#0f0f0f,#444444,#0f0f0f);
    background-color: @border-color;
+   padding: 0px;
+   margin-left: -1px;
+   margin-right: -1px;
+   margin-top: -1px;
+   margin-bottom: -1px;
 }
 
 /*@keyframes pulse
