@@ -127,6 +127,11 @@ dialog box box buttonbox button
 	background: linear-gradient(180deg,transparent,#1e1e1e);
 }
 
+GimpDock box box paned notebook stack widget box box entry {
+	min-height: 18px;
+
+}
+
 /* CUSTOM CODE END */
 
 GimpToolDialog {

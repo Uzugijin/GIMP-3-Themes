@@ -136,7 +136,7 @@ notebook header tabs tab:hover {
  */
 .horizontal {
   color: @fg-color;
-  background-color: #1b1b1b;
+  background-color: rgba(30,30,30,0);
 }
 
 /* Text buttons, e.g. the main buttons at the bottoms of dialogs,
@@ -263,6 +263,12 @@ paned separator {
 button {
   background-image: none;
   text-shadow: 0 0;
+}
+
+button:hover {
+color: #006BFF;
+border-left-color: #15539E;
+border-right-color: #15539E;
 }
 
 /* Handle both buttons drawn directly and drawn with an icon. */
